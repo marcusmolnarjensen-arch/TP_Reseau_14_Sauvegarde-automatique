@@ -795,7 +795,7 @@ R1                         : ok=3    changed=0    unreachable=0    failed=0    s
 
 ## 5. TP 4 : Configurer des VLAN sur un switch
 
-non realisé
+Non réalisé
 
 ## 6. Problèmes rencontrés et résolutions
 
