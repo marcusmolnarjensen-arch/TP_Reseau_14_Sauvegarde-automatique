@@ -795,7 +795,7 @@ R1                         : ok=3    changed=0    unreachable=0    failed=0    s
 
 ## 5. TP 4 : Configurer des VLAN sur un switch
 
-Non réalisé : ma maquette GNS3 ne contient pas de switch IOS. Le switch Ethernet intégré (Hub1) n'a pas d'interface en ligne de commande ni de SSH et ne peut pas être configuré par `ios_vlans` ou `ios_l2_interfaces`.
+non realisé
 
 ## 6. Problèmes rencontrés et résolutions
 
