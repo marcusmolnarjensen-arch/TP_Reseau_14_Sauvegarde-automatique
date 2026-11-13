@@ -2,8 +2,7 @@
 
 Geneva Institute of Technology · Module 14 · Routeur R1 (GNS3, Cisco 7200 / IOS 15.2) · Contrôleur Ansible : VM Ubuntu `grafana`
 
-> **Usage de l'IA** : ce TP a été réalisé avec l'aide de Claude (assistant IA) pour le dépannage de la liaison réseau (VMware / GNS3), la préparation des commandes et la mise en forme de ce README. Les configurations ont été saisies et testées par mes soins sur ma maquette, et les sorties présentées ici sont celles obtenues sur celle-ci.
-
+> **Usage de l'IA** : ce TP a été réalisé avec l'aide de Claude (assistant IA) pour le dépannage de la liaison réseau (VMware / GNS3) et la mise en forme de ce README.
 ## 1. Objectif
 
 Automatiser la sauvegarde de la `running-config` du routeur R1 depuis un contrôleur Ansible, enregistrer chaque sauvegarde horodatée sur la VM, puis planifier l'exécution quotidienne avec cron.
